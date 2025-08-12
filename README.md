@@ -130,5 +130,3 @@ debate_calc/
 2. **Configure API keys**: Ensure `.env` file contains valid API credentials
 3. **Install missing dependencies**: `pip install python-dotenv` if needed
 4. **Address DearPyGui issues**: Consider using Python 3.11/3.12 for DearPyGui compatibility
-
-**DISCLAIMER: As an AI Agent, I may provide incorrect or incomplete information. You must verify the information I provide before using it.**
